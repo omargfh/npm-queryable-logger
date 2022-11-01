@@ -1,0 +1,39 @@
+{
+    "name": "queryable-logger",
+    "version": "0.1.0",
+    "private": false,
+    "homepage": "https://github.com/omargfh/npm-queryable-logger.git",
+    "dependencies": {
+    },
+    "scripts": {},
+    "eslintConfig": {},
+    "issues": {
+        "url": "https://github.com/omargfh/npm-queryable-logger/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omargfh/npm-queryable-logger.git"
+    },
+    "files": [
+        "logger.ts",
+        "logger.d.ts",
+        "README.md",
+        "logger.js"
+    ],
+    "main": "logger",
+    "typings": "logger.d.ts",
+    "keywords": [
+        "log",
+        "logger",
+        "queryable",
+        "query",
+        "queryable-logger",
+        "log message",
+        "debug",
+        "warn",
+        "error",
+        "info",
+        "log message"
+    ]
+}
