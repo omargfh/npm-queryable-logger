@@ -4,7 +4,7 @@
     "private": false,
     "homepage": "https://github.com/omargfh/npm-queryable-logger.git",
     "dependencies": {
-        "queryable-logger": "^0.1.0"
+        "queryable-logger": "^0.1.1"
     },
     "scripts": {},
     "eslintConfig": {},

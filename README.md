@@ -1,6 +1,9 @@
 # Queryable Logger
 TypeScript logger that can be queried for log messages.
 
+[![npm version](https://badge.fury.io/js/queryable-logger.svg)](https://badge.fury.io/js/queryable-logger)
+[![npm](https://img.shields.io/npm/dt/queryable-logger.svg)](https://www.npmjs.com/package/queryable-logger)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Installation
 ```bash
 npm install --save-dev npm-queryable-logger
