@@ -1,4 +1,4 @@
-import QueryableLogger from './logger';
+import QueryableLogger from 'queryable-logger';
 
 // Initialize a logger instance
 const logger = new QueryableLogger(['foo', 'bar'], true);
